@@ -11,7 +11,6 @@ import java.util.List;
  * @author Zaroyan
  */
 
-
 @Entity
 @Data
 @Builder
